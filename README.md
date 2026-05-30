@@ -1,0 +1,1 @@
+Une analyse par machine learning est appliquée aux facteurs favorisant le kyste hydatique. L'application permet d'affecter aléatoirement des vaiables à l'entrée pour lire automatiquement le résultat à la sortie
